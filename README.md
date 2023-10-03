@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github]()
-- Live Site URL: [Vercel]()
+- Solution URL: [Github](https://github.com/stanko-tomic/sunnyside-agency-landing-solution)
+- Live Site URL: [Vercel](https://sunnyside-agency-landing-solution.vercel.app/)
 
 ## My process
 
